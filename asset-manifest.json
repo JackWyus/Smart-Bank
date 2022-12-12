@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/Smart-Bank/static/js/main.ae322b03.chunk.js",
+    "main.js.map": "/Smart-Bank/static/js/main.ae322b03.chunk.js.map",
+    "runtime-main.js": "/Smart-Bank/static/js/runtime-main.fb9d8601.js",
+    "runtime-main.js.map": "/Smart-Bank/static/js/runtime-main.fb9d8601.js.map",
+    "static/js/2.1ccf19f1.chunk.js": "/Smart-Bank/static/js/2.1ccf19f1.chunk.js",
+    "static/js/2.1ccf19f1.chunk.js.map": "/Smart-Bank/static/js/2.1ccf19f1.chunk.js.map",
+    "index.html": "/Smart-Bank/index.html",
+    "precache-manifest.c35e69cf34df6e5aab631ba68ed19036.js": "/Smart-Bank/precache-manifest.c35e69cf34df6e5aab631ba68ed19036.js",
+    "service-worker.js": "/Smart-Bank/service-worker.js",
+    "static/js/2.1ccf19f1.chunk.js.LICENSE.txt": "/Smart-Bank/static/js/2.1ccf19f1.chunk.js.LICENSE.txt",
+    "static/media/alimentacao.svg": "/Smart-Bank/static/media/alimentacao.44dbaa78.svg",
+    "static/media/bank_logo.svg": "/Smart-Bank/static/media/bank_logo.3ebcea65.svg",
+    "static/media/dinheiro.svg": "/Smart-Bank/static/media/dinheiro.30bb1f76.svg",
+    "static/media/olho.svg": "/Smart-Bank/static/media/olho.a835324f.svg",
+    "static/media/outros.svg": "/Smart-Bank/static/media/outros.17e95f3c.svg",
+    "static/media/privado.svg": "/Smart-Bank/static/media/privado.8191b12a.svg",
+    "static/media/saude.svg": "/Smart-Bank/static/media/saude.605ef9ca.svg",
+    "static/media/themeOff.svg": "/Smart-Bank/static/media/themeOff.664a5b4d.svg",
+    "static/media/themeOn.svg": "/Smart-Bank/static/media/themeOn.75ea2814.svg",
+    "static/media/transporte.svg": "/Smart-Bank/static/media/transporte.15a4ed73.svg",
+    "static/media/utilidades.svg": "/Smart-Bank/static/media/utilidades.cd27a550.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb9d8601.js",
+    "static/js/2.1ccf19f1.chunk.js",
+    "static/js/main.ae322b03.chunk.js"
+  ]
+}
