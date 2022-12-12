@@ -3,37 +3,36 @@ import React from "react";
 import Titulo from "../Titulo";
 import Conta from "../Conta";
 import styled from "styled-components";
-import {fundoClaro} from "../UI/variaveis"
+import Extrato  from '../Extrato/index'
+
 
 const ContainerComponent = styled.div`
-
-  background-color: ${fundoClaro};
   min-height: 90vh;
   padding: 0px 15vw;
 
-.conteudo {
+  background-color: ${({theme}) => theme.body};
+`
+const Conteudo = styled.section`
+
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-}
-@media(max-width: 800px) 
-{
-  .conteudo {
+  color: ${({theme}) => theme.text};
+
+  @media(max-width: 800px) 
+  {
     flex-direction: column;
   }
-}
 `
 
-
-const Container = () => {
+export default () => {
   return (
     <ContainerComponent>
       <Titulo>Olá Fulano!</Titulo>
-      <section className="conteudo">
+      <Conteudo>
         <Conta />
-      </section>
+        <Extrato/>
+      </Conteudo>
     </ContainerComponent>
   );
 };
-
-export default Container;

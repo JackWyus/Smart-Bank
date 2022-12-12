@@ -6,7 +6,7 @@ export const extratoLista = {
       value: "150,00",
       date: "11 JUN",
       from: "Bonna Parma",
-    },
+  },
     {
       id: "4564654",
       type: "Utilidades",
